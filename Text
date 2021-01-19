@@ -1,5 +1,0 @@
-Project idea: create a JS library that acts as a data scrapper (for grabbing Lua dictionaries) 
-for /data subpages of Modules on any wiki running on the MediaWiki engine and create a 
-microservice that is hosted on the cloud that outputs something related to that.
-
-Month long project
