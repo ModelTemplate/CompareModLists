@@ -1,6 +1,6 @@
 # CompareModLists
 
-Simple Node.js scripts that compare the lists of WARFRAME mods between the WARFRAME wiki and overframe.gg.
+Simple Node.js scripts that compare the lists of WARFRAME mods between the [WARFRAME wiki](https://warframe.fandom.com/wiki/Module:Mods/data) and [overframe.gg](https://overframe.gg/items/mod).
 
 # How to run
 
