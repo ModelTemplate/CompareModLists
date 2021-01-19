@@ -8,6 +8,7 @@ const luaEnv = luainjs.createEnv();
 const { union, intersection, difference } = require("set-ops");     // set operations
 const fs = require("fs");               // I/O operations
 
+// using wiki API to grab page content
 const URL = "https://warframe.fandom.com/api.php?action=parse&page=Module:Mods/data&format=json";
 const OUTPUT_FILE = "WikiModNames.txt";
 
